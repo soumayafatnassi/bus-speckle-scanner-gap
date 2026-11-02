@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+bus_crossscanner/
+bus_data/
+*.npz
+*.npy
